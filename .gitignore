@@ -1,9 +1,6 @@
-# Ape stuff
-.build/
-.cache/
-
-# Python
-.env
-.venv
-.pytest_cache
 __pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
