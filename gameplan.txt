@@ -1,0 +1,14 @@
+Deployed Chains:
+    - Polkadot (Web3athon):
+        - Unique Network (Web3athon)
+    - XDC Network (Web3athon)
+    - OKT Chain (Web3athon)
+    - Solana (Web3athon); via Neon EVM
+    - Filecoin (FVM Dataverse Hack)
+    - Shardeum (TxB Labs)
+
+Front-end:
+    - Sphereon (Web3athon and FVM Dataverse Hack); hosting
+
+IPFS:
+    - NFT.Storage
