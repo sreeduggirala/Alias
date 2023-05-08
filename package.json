@@ -1,0 +1,15 @@
+{
+  "name": "athens",
+  "version": "1.0.0",
+  "description": "Alias is an AI-driven digital avatar generation tool. Simply upload a full-body picture of yourself to create a unique NFT avatar for metaverses/social media!",
+  "main": "tailwind.config.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
