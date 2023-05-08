@@ -1,14 +1,9 @@
-# Compiler files
-cache/
-out/
+# Ape stuff
+.build/
+.cache/
 
-# Ignores development broadcast logs
-!/broadcast
-/broadcast/*/31337/
-/broadcast/**/dry-run/
-
-# Docs
-docs/
-
-# Dotenv file
+# Python
 .env
+.venv
+.pytest_cache
+__pycache__
