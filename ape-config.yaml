@@ -2,6 +2,8 @@ name: Alias
 
 default_ecosystem: ethereum
 
+contracts_folder: contracts
+
 plugins:
   - name: solidity
     version: 0.6.3
