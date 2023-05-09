@@ -1,11 +1,14 @@
 import logo from './logo.svg';
 import './App.css';
+import Header from './components/Header.js';
+import Body from './components/Body.js';
 
 function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    <>
+      <Header></Header>
+      <Body></Body>
+    </>
   );
 }
 
