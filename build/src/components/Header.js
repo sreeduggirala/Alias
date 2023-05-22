@@ -1,3 +1,6 @@
+import { ConnectButton } from '@rainbow-me/rainbowkit';
+
+
 function Header() {
     return (
       <>
@@ -5,7 +8,7 @@ function Header() {
         <h1 className="text-4xl font-bold text-orange-600">
           Alias
         </h1>
-        <button className="text-xl font-bold text-orange-600 border-orange-600 border-4 bg-[#f5f5f5] w-[180px] h-12 rounded-xl hover:bg-orange-600 hover:text-[#f5f5f5] duration-300">Connect Wallet</button>
+        <ConnectButton className="text-xl font-bold text-orange-600 border-orange-600 border-4 bg-[#f5f5f5] w-[180px] h-12 rounded-xl hover:bg-orange-600 hover:text-[#f5f5f5] duration-300">Connect Wallet</ConnectButton>
       </div>
       </>
     );
