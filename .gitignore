@@ -8,5 +8,9 @@
 .pytest_cache
 __pycache__
 
+.env
+
 # Hackathons
 plan.txt
+
+

@@ -1,7 +1,5 @@
 name: Alias
 
-default_ecosystem: ethereum
-
 plugins:
   - name: solidity
     version: 0.6.5
