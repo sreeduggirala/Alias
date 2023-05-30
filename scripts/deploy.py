@@ -1,6 +1,5 @@
-from ape import accounts
+from ape import accounts, networks
 
 
-@pytest.fixture
 def alias(project, accounts):
     return project.Alias.deploy(sender=accounts[0])
