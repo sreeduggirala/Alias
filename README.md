@@ -1,5 +1,5 @@
 # Alias
-Alias is an AI-powered digital avatar generation tool. Simply upload a full-body picture to create your digital twin for metaverses/social media!
+Alias is an AI-powered 2D image to 3D NFT avatar generation tool. Simply upload a picture of yourself to create a 1:1 3D NFT avatar!
 
 # Inspiration
 
