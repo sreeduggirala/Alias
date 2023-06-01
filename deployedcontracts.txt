@@ -9,9 +9,16 @@ https://mumbai.polygonscan.com/address/0x7a722C4C585F17B237DD2C57dD46677c7D34842
 
 
 # Neon EVM (Devnet)
-
+https://neonscan.org/address/0x8843c35e6E366f3DBBB31ad111E640D4AdEc08F5
+0x8843c35e6E366f3DBBB31ad111E640D4AdEc08F5
 
 # OKT Chain
 
 
-#Theta Network (Testnet)
+# Theta Network (Testnet)
+https://testnet-explorer.thetatoken.org/account/0x8843c35e6E366f3DBBB31ad111E640D4AdEc08F5
+0x8843c35e6E366f3DBBB31ad111E640D4AdEc08F5
+
+# Fantom
+https://testnet.ftmscan.com/address/0x8843c35e6E366f3DBBB31ad111E640D4AdEc08F5
+0x8843c35e6E366f3DBBB31ad111E640D4AdEc08F5
