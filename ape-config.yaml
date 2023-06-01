@@ -4,6 +4,7 @@ plugins:
   - name: solidity
   - name: fantom
   - name: polygon
+  - name: alchemy
 
 dependencies:
   - name: OpenZeppelin
