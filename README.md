@@ -2,6 +2,10 @@
 
 Alias is an AI-powered 2D image to 3D NFT avatar generation tool. Simply upload a picture of yourself to create a 1:1 3D NFT avatar!
 
+_YouTube Video:_
+
+_Demo:_
+
 # Inspiration
 
 As gamers and Web3 enthusiasts, we were appalled by the limited personalization options available for avatars in Web2 and Web3 games/social media platforms.
