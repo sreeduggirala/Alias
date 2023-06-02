@@ -37,6 +37,7 @@ We used the PIFuHD model (Pixel-Aligned Implicit Function for High-Resolution Hu
 
 # Accomplishments that we're proud of
 
+- Deployed API on AWS but ran out of memory (testing with local deployment)
 - Built with React (devs are primarily back-end)
 - First time using ApeWorX and PyTest (migrated from Hardhat)
 - First time using PIFuHD
