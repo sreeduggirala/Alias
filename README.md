@@ -13,7 +13,7 @@ We noticed that users often have to choose from a limited set of pre-designed av
 
 # How We Built It
 
-Our front-end comprises HTML, CSS (Tailwind), and JavaScript (React), which was then hosted on AWS. Wallet integration was achieved via the RainbowKit Wallet SDK.
+Our front-end comprises HTML, CSS (Tailwind), and JavaScript (React), which was then hosted on Spheron. Wallet integration was achieved via the RainbowKit Wallet SDK.
 
 We leveraged the OpenZeppelin Contract Wizard for the ERC-721 (NFT) standard and Web3.storage (Filecoin) for hosting our metadata on IPFS. The contracts were deployed on Fantom, Theta Network, Shardeum, and several other EVM-compatible (test) networks.
 
