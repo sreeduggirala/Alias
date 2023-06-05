@@ -24,6 +24,7 @@ We used the PIFuHD model (Pixel-Aligned Implicit Function for High-Resolution Hu
 - OKT Chain
 - Unique Network
 - Theta Network
+- Neon EVM (Solana)
 
 # Challenges we ran into
 
